@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @Muhammet-Emir
 - 👀 I’m interested in Creating Tools For Everyday life
-- 🌱 I’m currently learning Webdeveloping
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Python and C#
 - 📫 How to reach me ...
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I started at my coding journey bec of Minecraft
 
 <!---
